@@ -41,6 +41,5 @@ if b > a:
         print(c)
 
 
-
-
+        
 
