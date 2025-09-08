@@ -29,3 +29,12 @@ elif marks >= 60 and marks <= 69:
     print("A-")
 else:
     print("Fail")
+
+
+
+
+word = "u"
+if word == "a" or word == "e" or word == "i" or word == "o" or word == "u":
+    print("Vowal")
+else:
+    print("consonent")    
