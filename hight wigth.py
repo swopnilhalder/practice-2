@@ -36,3 +36,7 @@ hight = float(input("enter your hight number :"))
 
 area = 0.5 * base * hight
 print(area)
+
+
+
+
